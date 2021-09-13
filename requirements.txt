@@ -1,0 +1,8 @@
+flask~=1.1.2
+Flask-SQLAlchemy
+flask-login
+flask-admin
+SQLAlchemy~=1.4.9
+Werkzeug~=1.0.1
+flake8
+Faker
